@@ -1,0 +1,29 @@
+.users {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.users-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+}
+.users-input > input {
+  margin: 10px;
+  height: 30px;
+  width: 250px;
+}
+
+.users-input > button {
+  margin: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: blue;
+  color: aliceblue;
+  font-size: 18px;
+  height: 39px;
+}

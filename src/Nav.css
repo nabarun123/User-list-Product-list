@@ -1,0 +1,11 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav {
+  display: flex;
+  margin-top: 20px;
+  width: 500px;
+  color: darkblue;
+}
